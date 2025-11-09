@@ -97,3 +97,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ## 📧 Contact
 
 Rishabh Shukla - **shuklarishab936@gmail.com**
+Project Link: **https://rishabh-2304.github.io/Simon_Game/**
